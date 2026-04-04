@@ -3,18 +3,24 @@
     {
       "id": "B1",
       "name": "Làm Đĩ",
+      "total": "5",
       "count": "3",
-      "hBorrow": []
+      "hBorrow": [{
+        "id":"H1",
+        "name":"Võ Tắc Thiên"
+      }]
     },
     {
       "id": "B2",
       "name": "Làm Đĩ",
+      "total": "5",
       "count": "3",
       "hBorrow": []
     },
     {
       "id": "B4",
       "name": "Làm Đĩ",
+      "total": "5",
       "count": "3",
       "hBorrow": []
     }
@@ -23,6 +29,7 @@
     {
       "id": "H1",
       "name": "Võ Tắc Thiên",
+      "total": "1",
       "bBorrow": [
         "Người Lái Đò Sông Đà"
       ]
@@ -30,6 +37,7 @@
     {
       "id": "H2",
       "name": "Trần Tử Địa",
+      "total": "1",
       "bBorrow": [
         "Người Lái Đò Sông Đà"
       ]

@@ -3,12 +3,9 @@
     {
       "id": "B1",
       "name": "Làm Đĩ",
-      "total": "5",
-      "count": "3",
-      "hBorrow": [{
-        "id":"H1",
-        "name":"Võ Tắc Thiên"
-      }]
+      "total": "16",
+      "count": "16",
+      "hBorrow": []
     },
     {
       "id": "B2",
@@ -23,24 +20,33 @@
       "total": "5",
       "count": "3",
       "hBorrow": []
+    },
+    {
+      "id": "4",
+      "name": "lam di duc",
+      "total": "3",
+      "count": "3",
+      "hBorrow": []
     }
   ],
   "hBorrow": [
     {
       "id": "H1",
       "name": "Võ Tắc Thiên",
-      "total": "1",
-      "bBorrow": [
-        "Người Lái Đò Sông Đà"
-      ]
+      "total": "0",
+      "bBorrow": []
     },
     {
       "id": "H2",
       "name": "Trần Tử Địa",
-      "total": "1",
-      "bBorrow": [
-        "Người Lái Đò Sông Đà"
-      ]
+      "total": "0",
+      "bBorrow": []
+    },
+    {
+      "id": "H3",
+      "name": "dat maniac",
+      "total": 0,
+      "bBorrow": []
     }
   ]
 }

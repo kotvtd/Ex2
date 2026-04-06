@@ -2,28 +2,28 @@
   "book": [
     {
       "id": "B1",
-      "name": "Làm Đĩ",
+      "name": "Doraemon",
       "total": "16",
       "count": "16",
       "hBorrow": []
     },
     {
       "id": "B2",
-      "name": "Làm Đĩ",
+      "name": "Thám Tử Lừng Danh Conan",
       "total": "5",
       "count": "3",
       "hBorrow": []
     },
     {
       "id": "B4",
-      "name": "Làm Đĩ",
+      "name": "7 Viên Ngọc zồng",
       "total": "5",
       "count": "3",
       "hBorrow": []
     },
     {
       "id": "4",
-      "name": "lam di duc",
+      "name": "Nếu một mai tôi bay lên trờis",
       "total": "3",
       "count": "3",
       "hBorrow": []
